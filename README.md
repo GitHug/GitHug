@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi 👋 
 
-<!--
-**GitHug/GitHug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with extensive experience of contracting. I have previously worked for [uniQode](https://q.group/offices/uniqode) and Capgemini, however since May 2019 I have my own business, [Takanoha](https://takanoha.io/). I currently live in [Mariehamn, Finland](https://goo.gl/maps/3qLt7SXYnGhPUGvm7) 🇦🇽 🇫🇮.
 
-Here are some ideas to get you started:
+⚡ Fun fact: Those familiar with Scandinavia would likely recognize my last name as very Finnish. I'm absolutely terrible at Finnish, even though I spent many years in primary school trying to learn it. Swedish is alright though 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning: AWS and distributed systems in general 🤯
+
+📖 I'm currently reading: Designing Data-Intensive Applications by Martin Kleppman.
+
+### Clients
+- __Hyperion X__: Making life easier for underwriters. Scrum master and fullstack engineer working with VueJS / Nuxt.js and PHP Laravel.
+- __Uncharted__: Greenfield insurtech project. My first time working with VueJS and my first full frontend engineer role 😬. It was an exciting journey going from nothing to something that process a large amount of business.
+- __Swedbank__: Built software to make the bank compliant with EU regulation, targeting large corporations and institutions. Java heavy ☕
+- __Swedish Enforcement Agency__: Multi-year project to rebuild a legacy system into something more modern. Got to experience scrum mastering, jumping into the deep end by having a team of 12 🏊. Java, Angular and JSF.
+- __Swedish Tax Agency__: 5 parallel scrum teams working on a single product. Fresh out of uni, this was a really great experience. Java and vanilla Javascript aplenty.
+
+### Hobbies
+I have been a Warhammer enthusiast for the last 20 years now. I don't have as much time for it as I used to, but I do try to get a game in at least once per month 🎲. I also try to paint and build some kits when I have some time over, trying to chip away at my embarrassingly large backlog 🖌️.
+
+I also like to work on hobby projects 🖥️. They are mainly designed for learning and keeping my skills sharp. You can find a selection of my hobby projects below 👇.
+
+## Contact 📫
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/fredrikmakila/) or fredrik (at) takanoha<span>.io.
