@@ -2,7 +2,7 @@ Hi 👋
 
 I'm a Software Engineer with extensive experience of contracting. I have previously worked for [uniQode](https://q.group/offices/uniqode) and Capgemini, however since May 2019 I have my own business, [Takanoha](https://takanoha.io/). I currently live in [Mariehamn, Finland](https://goo.gl/maps/3qLt7SXYnGhPUGvm7) 🇦🇽 🇫🇮.
 
-⚡ Fun fact: Those familiar with Scandinavia would likely recognize my last name as very Finnish. I'm absolutely terrible at Finnish, even though I spent many years in primary school trying to learn it. Swedish is alright though 
+⚡ Fun fact: Those familiar with Scandinavia would likely recognize my last name as very Finnish. I'm absolutely terrible at Finnish, even though I spent many years in primary school trying to learn it. Swedish is alright though.
 
 🌱 I’m currently learning: AWS and distributed systems in general 🤯
 
