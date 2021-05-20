@@ -1,6 +1,6 @@
 Hi 👋 
 
-I'm a Software Engineer with extensive experience of contracting. I have previously worked for [uniQode](https://q.group/offices/uniqode) and Capgemini, however since May 2019 I have my own business, [Takanoha](https://takanoha.io/). I currently live in [Mariehamn, Finland](https://goo.gl/maps/3qLt7SXYnGhPUGvm7) 🇦🇽 🇫🇮.
+I'm a Software Engineer with extensive experience of contracting. I have previously worked for [uniQode](https://q.group/offices/uniqode) and Capgemini, however since May 2019 I run my own businesses, [Takanoha Limited](https://takanoha.io/) and [Takanoha Ab](https://takanoha.ax). I currently live in [Mariehamn, Finland](https://goo.gl/maps/3qLt7SXYnGhPUGvm7) 🇦🇽 🇫🇮.
 
 ⚡ Fun fact: Those familiar with Scandinavia would likely recognize my last name as very Finnish. I'm absolutely terrible at Finnish, even though I spent many years in primary school trying to learn it. Swedish is alright though.
 
@@ -21,4 +21,4 @@ I have been a Warhammer enthusiast for the last 20 years now. I don't have as mu
 I also like to work on hobby projects 🖥️. They are mainly designed for learning and keeping my skills sharp. You can find a selection of my hobby projects below 👇.
 
 ## Contact 📫
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/fredrikmakila/) or fredrik (at) takanoha<span>.io.
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/fredrikmakila/), fredrik (at) takanoha<span>.io or fredrik (at) takanoha<span>.ax.
